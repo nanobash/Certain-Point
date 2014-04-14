@@ -2,11 +2,11 @@
  * 
  * @projectDescription (Certain Point) Lightweight Functional Style JavaScript Framework Providing Commonly Used Set Of Functions
  * 
- * @author		Tornike Nanobashvili
+ * @author	Tornike Nanobashvili
  * 
  * @copyright	Copyright (c) 2014
  * 
- * @license		http://www.opensource.org/licenses/mit-license.html  MIT License
+ * @license	http://www.opensource.org/licenses/mit-license.html  MIT License
  * 
  */
 
