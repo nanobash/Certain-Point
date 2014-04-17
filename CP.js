@@ -8,7 +8,7 @@
  * 
  * @license	http://www.opensource.org/licenses/mit-license.html  MIT License
  * 
- * @example Any function can be called like CP.*functionName*
+ * @example	Any function within the framework can be invoked like CP.*functionName*
  * 
  */
 
